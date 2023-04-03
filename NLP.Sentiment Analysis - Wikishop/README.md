@@ -14,4 +14,4 @@
 
 **Стек:**
 
-pandas, numpy, sklearn, re, nltk, tqdm, lightgbm, catboost, torch, spacy
+`sklearn`, `lightgbm`, `catboost`, `torch`, `spacy`, `pandas`, `numpy`, `re`, `nltk`, `tqdm`, 
