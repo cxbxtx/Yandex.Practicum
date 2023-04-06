@@ -7,7 +7,7 @@
 `Машинное обучение`, `Computer vision`
 
 ### **Стек**
-`tensorflow`, `keras`, `pandas`, `numpy`, `matplotlib`, `statsmodels`
+`tensorflow`, `keras`, `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ### **Задача проекта**
 Определение возраста по фотографии.
