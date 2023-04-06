@@ -7,7 +7,7 @@
 `Машинное обучение`
 
 ### **Стек**
-`sklearn`, `lightgbm`, `tensorflow`, `keras`, `optuna`, `sqlalchemy`, `pandas`, `numpy`, `matplotlib`
+`sklearn`, `lightgbm`, `tensorflow`, `keras`, `optuna`, `sqlalchemy`, `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ### **Задача проекта**
 Разработка  модели прогнозирования температуры стали.
